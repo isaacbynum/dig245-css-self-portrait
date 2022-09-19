@@ -1,2 +1,199 @@
 
 /* css */
+#one{
+  border: solid red;
+  transform: translate(500px, 400px) rotate(20deg);
+  background-color: red;
+  width: 90px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+
+
+}
+
+#two{
+  border: brown;
+  transform: translate(580px, 384px);
+  background-color: brown;
+  width: 90px;
+  height: 30px;
+  position: relative;
+  z-index: 0;
+
+
+}
+
+#three{
+  border: solid red;
+  transform: translate(660px, 338px) rotate(-20deg);
+  background-color: red;
+  width: 90px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+
+}
+
+#four{
+  border: brown;
+  border-radius:80px 80px 150px 150px;
+  transform: translate(480px, 80px);
+  background-color: #C4A484;
+  width: 300px;
+  height: 350px;
+  position: relative;
+  z-index: -1;
+}
+
+
+
+.five{
+  border: white;
+  margin-left: 550px;
+  top: -170px;
+  background-color: white;
+  width: 45px;
+  height: 45px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.six{
+  border: white;
+  margin-left: 650px;
+  top: -214px;
+  background-color: white;
+  width: 45px;
+  height: 45px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.seven{
+  border: solid brown;
+  border-radius:1px 1px 1px 150px;
+  margin-left: 530px;
+  top: -295px;
+  background-color: brown;
+  width: 60px;
+  height: 25px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.eight{
+  border: solid brown;
+  border-radius:1px 1px 150px 1px;
+  margin-left: 650px;
+  top: -320px;
+  background-color: brown;
+  width: 60px;
+  height: 25px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.nine{
+  border: black;
+  border-radius:1px 1px 150px 1px;
+  margin-left: 370px;
+  rotate: 120deg;
+  top: -320px;
+  background-color: black;
+  width: 200px;
+  height: 30px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.ten{
+  border: gold;
+  border-radius:1px 1px 1px 150px;
+  margin-left: 700px;
+  rotate: 240deg;
+  margin-top: -350px;
+  background-color: gold;
+  width: 200px;
+  height: 30px;
+  z-index:3 ;
+
+}
+
+.eleven{
+  border: black;
+  border-radius:1px 1px 1px 150px;
+  margin-left: 676px;
+  rotate: 250deg;
+  margin-top: -30px;
+  background-color: black;
+  width: 200px;
+  height: 30px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.twelve{
+  border: gold;
+  border-radius:1px 1px 150px 1px;
+  margin-left: 400px;
+  rotate: 115deg;
+  margin-top: -30px;
+  background-color: gold;
+  width: 200px;
+  height: 30px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.thirteen{
+  border: gold;
+  border-radius:1px 1px 150px 1px;
+  margin-left: 400px;
+  rotate: 115deg;
+  margin-top: -30px;
+  background-color: gold;
+  width: 200px;
+  height: 30px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.fourteen{
+  border: black;
+  border-radius:1px 1px 1px 1px;
+  margin-left: 510px;
+  margin-top: -130px;
+  background-color: black;
+  width: 250px;
+  height: 30px;
+  position: relative;
+  z-index:3 ;
+
+}
+
+.fifteen{
+  border: red;
+  border-radius:130px 1px 50px 1px;
+  margin-left: 595px;
+  margin-top: 140px;
+  background-color: brown;
+  width: 50px;
+  height: 50px;
+
+  z-index:4 ;
+
+}
+
+
+a {
+  float: right;
+}
